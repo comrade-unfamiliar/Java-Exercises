@@ -1,32 +1,3 @@
-Lipogrammer.java
-Today
-1:20 PM
-
-You restricted access to an item
-Java
-Lipogrammer.java
-
-Samuel Lucas
-Last week
-Mar 25
-
-You shared an item
-Java
-Lipogrammer.java
-
-Can view
-Samuel Lucas
-Last year
-Feb 15, 2018Computer
-
-You edited an item
-Java
-Lipogrammer.java
-Feb 8, 2018Computer
-
-You uploaded an item
-Java
-Lipogrammer.java
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
