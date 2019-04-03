@@ -105,4 +105,3 @@ public class Lipogrammer extends JFrame
     window.setVisible(true);
   }
 }
-Sharing settings
